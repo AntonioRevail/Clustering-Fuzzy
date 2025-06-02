@@ -1,6 +1,7 @@
 # Clustering-Fuzzy
 
-Fuzzy c-means
+## Fuzzy c-means
+
 1 - The 10 sequences were aligned using MAUVE. Chromosomes 10, 28, and 31 were aligned separately.
  Website: https://darlinglab.org/mauve/mauve.html
  
@@ -20,7 +21,7 @@ Fuzzy c-means
 Note: The output of this code contains, separately, the membership degrees and the fuzzy partition coefficients. A better visualization would be to place this data in a spreadsheet to better observe the clusters.
  File: all_the_k.xlsx
 
-Fuzzy Map
+## Fuzzy Map
 1 - This code builds a color plot showing the distribution of species across clusters.
  Code: fuzzy_ graphics_10.py
 	fuzzy_ graphics_10.py
